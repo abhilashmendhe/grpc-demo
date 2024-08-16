@@ -1,0 +1,6 @@
+We will work on 4 types of RPC calls
+
+1) Unary API - Request Response model
+2) Server Streaming
+3) Client Streaming
+4) Bidirectional Streaming
